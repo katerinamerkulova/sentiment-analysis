@@ -1,2 +1,3 @@
 # sentiment-analysis
-sentiment analysis of movies' reviews
+Sentiment analysis of movies' reviews
+Final project of machine learnings' course on Coursera
