@@ -1,0 +1,14 @@
+<!doctype html>
+<title>Sentiment Classifier Demonstration</title>
+<form action="{{ url_for('index_page') }}" method=post>
+    <dl>
+        <dt>Print or insert your example of feedback:<br>
+        <dd><textarea name=text rows=15 cols=100>{{ text }}</textarea>
+        <dd><input type=submit value="Submit">
+    </dl>
+</form>
+
+    <dl>
+        <dt>Sentiment prediction:<br>
+        <dd><textarea name=text rows=1 cols=20>{{ prediction_message}}</textarea>
+    </dl>
