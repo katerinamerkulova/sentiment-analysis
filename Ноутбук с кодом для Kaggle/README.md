@@ -1,0 +1,1 @@
+reviews.csv - обучающая выборка (больше 25 мб https://yadi.sk/d/0Ush18N8YBiRCg)
