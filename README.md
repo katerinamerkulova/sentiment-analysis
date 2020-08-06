@@ -2,4 +2,4 @@
 
 Финальный проект специализации по машинному обучению на Coursera
 
-reviews.csv - обучающая выборка (больше 25 мб https://yadi.sk/d/0Ush18N8YBiRCg)
+reviews.csv - обучающая выборка https://yadi.sk/d/0Ush18N8YBiRCg
